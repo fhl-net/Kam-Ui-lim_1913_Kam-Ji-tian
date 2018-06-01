@@ -1,7 +1,7 @@
 # Kam Jī-tián Chu-liāu-khòo
 
 線頂網站：http://taigi.fhl.net/dick/
-[![線頂網站](https://github.com/Taiwanese-Corpus/Kam-Ui-lim_1913_Kam-Ji-tian/raw/master/Bāng-tsām_siú-ia̍h.png)](http://taigi.fhl.net/dick/)
+[![線頂網站](https://github.com/fhl-net/Kam-Ui-lim_1913_Kam-Ji-tian/raw/master/Bāng-tsām_siú-ia̍h.png)](http://taigi.fhl.net/dick/)
 
 ## 資料授權
 
