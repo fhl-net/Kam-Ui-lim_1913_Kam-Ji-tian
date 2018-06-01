@@ -9,3 +9,8 @@
 
 [![創用 CC 授權條款](https://licensebuttons.net/l/by-nc-sa/3.0/tw/88x31.png)](http://taigi.fhl.net/dick/)
 本字典資料，採用創用 CC 姓名標示-非商業性-相同方式分享 3.0 台灣 授權條款授權。
+
+## sql2csv
+```
+time bash sql2csv.sh dic_can.txt 
+```
